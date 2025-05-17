@@ -1,27 +1,57 @@
 # 👋 Hello, I'm Aditya Kumar
 
-🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer | 🚀 Passionate about Open Source
+🎯 Aspiring Cybersecurity Analyst | 🛡️ AWS Certified | 💻 Skilled in Threat Intelligence, Networking & Linux
 
 ---
 
-## 🧠 About Me
+## 🧾 Summary
 
-- 🔭 I’m currently working on Python-based projects.
-- 🌱 I’m learning full-stack development and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, C, and software development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com)
-- ⚡ Fun fact: I enjoy solving complex problems and learning new programming languages.
+I’m a passionate and detail-oriented IT graduate with a strong foundation in Cybersecurity, Cloud Computing, and Information Technology. My experience spans across networking, Linux administration, cloud platforms like AWS, and cybersecurity practices like threat intelligence and incident response.
+
+Currently pursuing a Master’s in Computer Applications, I am driven to contribute to secure and innovative tech solutions. Open to exciting opportunities in Cybersecurity, IT Infrastructure, or Cloud Security roles.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- **Cybersecurity**: Threat Intelligence, Incident Response, OSINT, Ethical Hacking, Penetration Testing, Log Analysis & Forensics
+- **Cloud & DevOps**: AWS Cloud, Cloud Security, IAM, Virtualization
+- **Networking & Systems**: Linux Administration, Network Scanning, Identity Management, Networking
+- **Tools**: Metasploit, Version Control (Git), Nmap, Wireshark
+
+---
+
+## 📜 Certifications
+
+- 🧠 **Cyber Threat Intelligence (Foundation Level)** – ArcX (Sep 2024)  
+- ☁️ **AWS Cloud Practitioner Essentials** – AWS (Sep 2024)  
+- 🔐 **Cybersecurity Threat Vectors and Mitigation** – Microsoft via Coursera (Sep 2024)  
+- 🛰️ **ISRO E-learning Program Certificate** – ISRO (Jan 2025)  
+
+▶️ [Credly Profile](https://www.credly.com/users/aditya-kumar.c9be8cb7)
+
+---
+
+## 🎓 Education
+
+- **MCA (Master of Computer Applications)**  
+  *University of Petroleum and Energy Studies* (2024 – 2026)
+
+- **B.Sc. in Information Technology**  
+  *Hemvati Nandan Bahuguna Garhwal University* (2021 – 2024)
+
+- **Professional Program in Cyber Security**  
+  *GICT – Global Institute of Cyber Technology* (2023 – 2024)
+
+---
+
+## 💼 Projects
+
+### ☁️ Basic Cloud Hosting with AWS (06/2024)
+- Launched and secured a Linux-based EC2 instance with Apache/Nginx
+- Configured IAM roles and security groups for access control
+- Utilized Amazon S3 for scalable object storage
+- Demonstrated practical knowledge of AWS architecture and cloud security
 
 ---
 
@@ -33,32 +63,15 @@
 
 ---
 
-## 🚀 Projects
+## 🌐 Connect with Me
 
-Here are some of my notable projects:
-
-- [Project-01-PersonalDiary](https://github.com/Aditya-Kumar-19/Project-01-PersonalDiary): A personal diary application built with Python.
-- [Project-02-RandomPasswordGenerator](https://github.com/Aditya-Kumar-19/Project-02-RandomPasswordGenerator): A tool to generate secure random passwords.
-- [Project-03-QuizApp](https://github.com/Aditya-Kumar-19/Project-03-QuizApp): A quiz application developed using Python.
-- [Project-04-GUIcalculator](https://github.com/Aditya-Kumar-19/Project-04-GUIcalculator): A graphical calculator built with Python's Tkinter library.
-
-Feel free to explore these repositories and provide feedback or contributions!
+- 📧 [kumaraditya766899@gmail.com](mailto:kumaraditya766899@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumaraditya766899)  
+- 🎖️ [Credly Profile](https://www.credly.com/users/aditya-kumar.c9be8cb7)
 
 ---
 
-## 📫 Let's Connect
-
-I'm always open to connecting with fellow developers and enthusiasts. You can reach me through:
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Email](mailto:your-email@example.com)
-
----
-
-## 📊 Visitor Count
+## 👀 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Aditya-Kumar-19&color=blue)
-
----
 
