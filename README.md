@@ -19,7 +19,7 @@
 
 ---
 
-💬 Ask Me About
+## 💬 Ask Me About
 
 🐧 Linux | 🛜 Networking | 🕵️‍♂️ Ethical Hacking | ☁️ AWS Cloud Security | 🧠 Cyber Threat Intelligence  
 🛡️ Threat Management | 🚨 Incident Response | 📊 Security Monitoring
