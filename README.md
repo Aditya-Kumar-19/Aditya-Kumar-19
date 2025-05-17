@@ -19,10 +19,10 @@
 
 ---
 
-## 💬 Ask Me About
+💬 Ask Me About
 
-💻 Linux | ☁️ Cloud Security | 🔐 Cyber Threat Intelligence | ⚙️ AWS | 🧠 OSINT  
-📊 Security Tools | 🔧 EC2, IAM, S3 | 🕵️‍♂️ Ethical Hacking | 🧪 Penetration Testing & Log Analysis
+🐧 Linux | 🛜 Networking | 🕵️‍♂️ Ethical Hacking | ☁️ AWS Cloud Security | 🧠 Cyber Threat Intelligence  
+🛡️ Threat Management | 🚨 Incident Response | 📊 Security Monitoring
 
 ---
 
