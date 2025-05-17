@@ -1,80 +1,64 @@
-# 👋 Hi, I'm Aditya Kumar  
-🎯 Aspiring Cybersecurity Analyst | 🛡️ AWS Cloud Certified | 🐧 Linux Enthusiast | 🕵️‍♂️ OSINT & Threat Intelligence Explorer
+# 👋 Hello, I'm Aditya Kumar
+
+🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer | 🚀 Passionate about Open Source
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-I’m a passionate **MCA student specializing in cybersecurity**, cloud infrastructure, and digital forensics. With hands-on experience securing AWS environments, conducting threat analysis, and hardening Linux systems, I’m driven by solving real-world security challenges. I approach security as a continuous process of learning, thinking critically, and staying ahead of threats.
-
----
-
-## 🔭 Currently Exploring
-
-- Cloud Security Architecture & AWS IAM best practices  
-- Threat Hunting & Log Analysis with Linux & CloudTrail logs  
-- Red Team / Blue Team attack-defense strategies  
-- Linux System Hardening (AppArmor, auditd, firewall rules)  
-- OSINT Automation & Intelligence Gathering with Python  
-- IoT Security & Vulnerability Scanning with ESP32 devices  
+- 🔭 I’m currently working on Python-based projects.
+- 🌱 I’m learning full-stack development and exploring new technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about Python, C, and software development.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I enjoy solving complex problems and learning new programming languages.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Technologies & Tools
 
-### Cybersecurity  
-Penetration Testing: Metasploit, Nmap, Burp Suite, Hydra, SQLmap  
-Threat Intelligence & Forensics: Wireshark, Autopsy, IOC tracking, VirusTotal, Shodan  
-Vulnerability Scanning: Nessus, Nikto, OpenVAS, Patch Management  
-
-### Cloud & Linux  
-AWS Services: IAM, EC2, S3, VPC, Route 53, CloudWatch, CloudTrail  
-Linux Distros: Ubuntu, Kali, Parrot OS — Bash scripting, SSH & sudo hardening  
-
-### Tool Stack  
-Recon & Networking: Nmap, Netcat, theHarvester, SpiderFoot  
-Web Testing: Burp Suite, SQLmap, Nikto  
-Password Cracking: Hashcat, JohnTheRipper, Hydra  
-Forensics & OSINT: Autopsy, FTK Imager, Recon-ng, Maltego (basic), Shodan  
-Automation: Bash, Python (basic)  
-DevOps & Virtualization: Git, VirtualBox, Docker (basics)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- **AWS Knowledge: Cloud Essentials** — Amazon Web Services (Credly)  
-- **Cyber Threat Intelligence (Foundation)** — ArcX 
-- **Cybersecurity Threat Vectors and Mitigation** — Microsoft / Coursera  
-- **ISRO E-learning Program Certificate**  
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-19&show_icons=true&theme=radical)
 
-*In progress: CompTIA Security+, TryHackMe & Hack The Box badges*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-19&layout=compact&theme=radical)
 
 ---
 
-## 💻 Projects
+## 🚀 Projects
 
-### Cloud Hosting with AWS  
-Designed and deployed secure EC2 infrastructure with IAM, S3, and CloudWatch monitoring. Applied Linux hardening and cloud security best practices.
+Here are some of my notable projects:
 
-### OSINT Intelligence Toolkit (In Progress)  
-Centralized collection of open-source tools for email tracing, geolocation, username lookups, with Python automation.
+- [Project-01-PersonalDiary](https://github.com/Aditya-Kumar-19/Project-01-PersonalDiary): A personal diary application built with Python.
+- [Project-02-RandomPasswordGenerator](https://github.com/Aditya-Kumar-19/Project-02-RandomPasswordGenerator): A tool to generate secure random passwords.
+- [Project-03-QuizApp](https://github.com/Aditya-Kumar-19/Project-03-QuizApp): A quiz application developed using Python.
+- [Project-04-GUIcalculator](https://github.com/Aditya-Kumar-19/Project-04-GUIcalculator): A graphical calculator built with Python's Tkinter library.
 
-### IoT Vulnerability Scanner (In Progress)  
-ESP32-based hardware scanner for identifying insecure IoT devices, integrating Nmap and OLED display.
-
-### Linux Hardening Lab (Planned)  
-A sandbox environment to test Linux security policies, kernel restrictions, and monitoring for simulated attacks.
+Feel free to explore these repositories and provide feedback or contributions!
 
 ---
 
-## 📬 Let’s Connect
+## 📫 Let's Connect
 
-- 📧 [kumaraditya766899@gmail.com](mailto:kumaraditya766899@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kumaraditya766899)  
-- 🎖️ [Credly Certifications](https://www.credly.com/users/aditya-kumar.c9be8cb7)  
-- 🌐 Portfolio: Coming Soon
+I'm always open to connecting with fellow developers and enthusiasts. You can reach me through:
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+- [Email](mailto:your-email@example.com)
 
 ---
 
-> “Security is not a product, but a process.” — Bruce Schneier
+## 📊 Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Aditya-Kumar-19&color=blue)
+
+---
+
