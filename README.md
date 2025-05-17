@@ -63,10 +63,22 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Career Goals
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Kumar-19&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar-19&layout=compact&theme=radical)
+- 🛡️ Master Threat Intelligence & Incident Response  
+- ☁️ Specialize in AWS Cloud Security & Identity Management  
+- 📚 Achieve OSCP / AWS Security Specialty Certifications  
+- 🌐 Contribute to open-source security projects
+
+---
+
+## 🔍 Currently Exploring
+
+- 📡 Nmap & Wireshark advanced scans  
+- 🕵️‍♂️ Real-world CVE exploitation labs  
+- 🧠 Threat hunting techniques using OSINT tools  
+- 🛰️ Linux system hardening best practices
+
 
 ---
 
